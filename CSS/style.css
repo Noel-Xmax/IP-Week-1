@@ -1,8 +1,30 @@
-h1{
+p5 {
+  font-size: 0em;
+  text-decoration: wavy;
+  color:turquoise;
   text-align: center;
-  font: italic;
 }
-body{
-  background-color: darkgray;
-  
+h2 {
+  font-size: revert;
+    text-decoration: underline;
+    color: turquoise;
+    margin-left: inherit;
+
+}
+body {
+  color: darkgreen;
+  font: icon;
+  font-style: italic;
+  font-size: xx-large;
+  text-decoration: overline
+}
+.cool {
+  font-style: normal;
+
+}
+.listng li {
+float:right
+}
+p4 {
+  text-decoration: underline chocolate;
 }
