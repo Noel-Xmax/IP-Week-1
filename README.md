@@ -1,21 +1,21 @@
-### Noel Injaga
+# Noel injaga
+#### This is an About me page, 12.02.2021
+#### By **Noel Injaga**
+## Description
+This is a HTML file about me that helps the Viewer to understand me. My past in relation to Education,Work experiences,Hobbies and Interestes as well as skills.It also showcases what  enjoy doing, developing wordcloud images and attached is on the languages learnt, text editors used and what needs to be done to make it effective. G 
+## Setup/Installation Requirements
+* This is a HTML Document
+* it requires a browser and a stable nternet to open it.
+* As long a the browser and internet is running, please click on the link to open the webpage.
 
-### By Xmax Noel
-
-This Web page helps readers get to know me.Through my background n my career, education , work experiences and hobbies.
-
-For you to fully access i without any bugs you need: 
-* A working browser be it Explorer,chrome,firefox,mozilla 
-* A stable internet to help load the page. 
-* To open it please: 
-* Click on the link and allow it to load. 
-* You can guess and fill in the spaces before confrming who I am at the end of the page.
-
-# Known Bugs 
-Please note in case of internet interruptions, the web page might take longer than it should to load.Therefore, using fastspeed.com get to confirm your internt speed and source alternative connections incase it is lower than 5 mps per second.
-
-Technologies Used HTML CSS Wordcloud
-
-Support and contact details In case of diffculties accessing the page,please do not hesitate to reach me at:Xmaxnoel@yahoo.com
-
-MIT License Copyright (c) 2021 Xmax-Noel
+## Known Bugs
+Please note an arrenous message will be dispayed incase of no internent and or it may take time to load incase of slow connectivity.
+## Technologies Used
+The used technologies to make this run are: HTML,CSS and Github to publish it.I also ncorporated wordcloud.
+## Support and contact details
+In case of issues opening the page please reach me at:
+Email:Injaganoel@gmail.com
+Name: Injaga Noel.
+### License
+*MIT License*
+Copyright (c) 2021 **Noel Injaga**
