@@ -18,4 +18,8 @@ Email:Injaganoel@gmail.com
 Name: Injaga Noel.
 ### License
 *MIT License*
+<<<<<<< HEAD
 Copyright (c) 2021 **Noel Injaga**
+=======
+Copyright (c) 2021 **Noel Injaga**
+>>>>>>> 701c1766e7915ef7ecbbcf2803faeff51923306a
